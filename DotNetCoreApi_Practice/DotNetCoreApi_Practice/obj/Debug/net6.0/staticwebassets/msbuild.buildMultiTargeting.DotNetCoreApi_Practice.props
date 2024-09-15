@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DotNetCoreApi_Practice.props" />
+</Project>
